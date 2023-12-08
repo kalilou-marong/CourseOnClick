@@ -1,0 +1,15 @@
+C:\Users\Utilisateur\Desktop\shopping-CourseOnClick\bin\Debug\net8.0\shopping-CourseOnClick.exe
+C:\Users\Utilisateur\Desktop\shopping-CourseOnClick\bin\Debug\net8.0\shopping-CourseOnClick.deps.json
+C:\Users\Utilisateur\Desktop\shopping-CourseOnClick\bin\Debug\net8.0\shopping-CourseOnClick.runtimeconfig.json
+C:\Users\Utilisateur\Desktop\shopping-CourseOnClick\bin\Debug\net8.0\shopping-CourseOnClick.dll
+C:\Users\Utilisateur\Desktop\shopping-CourseOnClick\bin\Debug\net8.0\shopping-CourseOnClick.pdb
+C:\Users\Utilisateur\Desktop\shopping-CourseOnClick\obj\Debug\net8.0\shopping-CourseOnClick.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Utilisateur\Desktop\shopping-CourseOnClick\obj\Debug\net8.0\shopping-CourseOnClick.AssemblyInfoInputs.cache
+C:\Users\Utilisateur\Desktop\shopping-CourseOnClick\obj\Debug\net8.0\shopping-CourseOnClick.AssemblyInfo.cs
+C:\Users\Utilisateur\Desktop\shopping-CourseOnClick\obj\Debug\net8.0\shopping-CourseOnClick.csproj.CoreCompileInputs.cache
+C:\Users\Utilisateur\Desktop\shopping-CourseOnClick\obj\Debug\net8.0\shopping-CourseOnClick.sourcelink.json
+C:\Users\Utilisateur\Desktop\shopping-CourseOnClick\obj\Debug\net8.0\shopping-CourseOnClick.dll
+C:\Users\Utilisateur\Desktop\shopping-CourseOnClick\obj\Debug\net8.0\refint\shopping-CourseOnClick.dll
+C:\Users\Utilisateur\Desktop\shopping-CourseOnClick\obj\Debug\net8.0\shopping-CourseOnClick.pdb
+C:\Users\Utilisateur\Desktop\shopping-CourseOnClick\obj\Debug\net8.0\shopping-CourseOnClick.genruntimeconfig.cache
+C:\Users\Utilisateur\Desktop\shopping-CourseOnClick\obj\Debug\net8.0\ref\shopping-CourseOnClick.dll
